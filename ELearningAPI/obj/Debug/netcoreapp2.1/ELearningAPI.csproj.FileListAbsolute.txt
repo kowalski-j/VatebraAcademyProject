@@ -1,0 +1,14 @@
+C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\bin\Debug\netcoreapp2.1\ELearningAPI.deps.json
+C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\bin\Debug\netcoreapp2.1\ELearningAPI.runtimeconfig.json
+C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\bin\Debug\netcoreapp2.1\ELearningAPI.runtimeconfig.dev.json
+C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\bin\Debug\netcoreapp2.1\ELearningAPI.dll
+C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\bin\Debug\netcoreapp2.1\ELearningAPI.pdb
+C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\obj\Debug\netcoreapp2.1\ELearningAPI.csprojAssemblyReference.cache
+C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\obj\Debug\netcoreapp2.1\ELearningAPI.csproj.CoreCompileInputs.cache
+C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\obj\Debug\netcoreapp2.1\ELearningAPI.RazorAssemblyInfo.cache
+C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\obj\Debug\netcoreapp2.1\ELearningAPI.RazorAssemblyInfo.cs
+C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\obj\Debug\netcoreapp2.1\ELearningAPI.AssemblyInfoInputs.cache
+C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\obj\Debug\netcoreapp2.1\ELearningAPI.AssemblyInfo.cs
+C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\obj\Debug\netcoreapp2.1\ELearningAPI.RazorTargetAssemblyInfo.cache
+C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\obj\Debug\netcoreapp2.1\ELearningAPI.dll
+C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\obj\Debug\netcoreapp2.1\ELearningAPI.pdb
