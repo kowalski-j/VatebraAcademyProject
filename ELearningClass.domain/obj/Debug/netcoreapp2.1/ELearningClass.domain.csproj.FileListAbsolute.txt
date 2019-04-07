@@ -1,0 +1,12 @@
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.domain\bin\Debug\netcoreapp2.1\ELearningClass.domain.deps.json
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.domain\bin\Debug\netcoreapp2.1\ELearningClass.domain.dll
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.domain\bin\Debug\netcoreapp2.1\ELearningClass.domain.pdb
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.domain\bin\Debug\netcoreapp2.1\ELearningClass.data.dll
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.domain\bin\Debug\netcoreapp2.1\ELearningClass.data.pdb
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.domain\obj\Debug\netcoreapp2.1\ELearningClass.domain.csprojAssemblyReference.cache
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.domain\obj\Debug\netcoreapp2.1\ELearningClass.domain.csproj.CoreCompileInputs.cache
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.domain\obj\Debug\netcoreapp2.1\ELearningClass.domain.AssemblyInfoInputs.cache
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.domain\obj\Debug\netcoreapp2.1\ELearningClass.domain.AssemblyInfo.cs
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.domain\obj\Debug\netcoreapp2.1\ELearningClass.domain.csproj.CopyComplete
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.domain\obj\Debug\netcoreapp2.1\ELearningClass.domain.dll
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.domain\obj\Debug\netcoreapp2.1\ELearningClass.domain.pdb

@@ -12,3 +12,8 @@ C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\obj\Debug\netcoreapp2.1\EL
 C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\obj\Debug\netcoreapp2.1\ELearningAPI.RazorTargetAssemblyInfo.cache
 C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\obj\Debug\netcoreapp2.1\ELearningAPI.dll
 C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\obj\Debug\netcoreapp2.1\ELearningAPI.pdb
+C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\bin\Debug\netcoreapp2.1\ELearningClass.data.dll
+C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\bin\Debug\netcoreapp2.1\ELearningClass.domain.dll
+C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\bin\Debug\netcoreapp2.1\ELearningClass.domain.pdb
+C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\bin\Debug\netcoreapp2.1\ELearningClass.data.pdb
+C:\Users\APPLE\source\repos\ELearningApp\ELearningAPI\obj\Debug\netcoreapp2.1\ELearningAPI.csproj.CopyComplete

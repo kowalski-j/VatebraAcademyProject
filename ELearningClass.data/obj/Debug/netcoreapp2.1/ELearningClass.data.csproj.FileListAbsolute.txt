@@ -1,0 +1,9 @@
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.data\bin\Debug\netcoreapp2.1\ELearningClass.data.deps.json
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.data\bin\Debug\netcoreapp2.1\ELearningClass.data.dll
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.data\obj\Debug\netcoreapp2.1\ELearningClass.data.csprojAssemblyReference.cache
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.data\obj\Debug\netcoreapp2.1\ELearningClass.data.csproj.CoreCompileInputs.cache
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.data\obj\Debug\netcoreapp2.1\ELearningClass.data.AssemblyInfoInputs.cache
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.data\obj\Debug\netcoreapp2.1\ELearningClass.data.AssemblyInfo.cs
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.data\bin\Debug\netcoreapp2.1\ELearningClass.data.pdb
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.data\obj\Debug\netcoreapp2.1\ELearningClass.data.dll
+C:\Users\APPLE\source\repos\ELearningApp\ELearningClass.data\obj\Debug\netcoreapp2.1\ELearningClass.data.pdb
